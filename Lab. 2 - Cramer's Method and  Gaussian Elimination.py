@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-
 @author: AlessandroVavala
 """
 
@@ -94,6 +93,8 @@ def gaussian_elimination(A, b):
     print(x)
     
 gaussian_elimination(a, b)
+
+########################################################################
 
 """
 A system of linear equations is given:
