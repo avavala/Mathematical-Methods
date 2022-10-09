@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct  9 15:02:12 2022
-
 @author: AlessandroVavala
+"""
+"""
+Write a program that determines the determinant of a second and third degree matrix
 """
 import copy
 def get_matrix_minor(a,i):#FUNCTION TO FIND THE NEW MATRIX
